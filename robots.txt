@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deal-finder-hub.github.io/wise-promo-code/sitemap.xml
